@@ -1,0 +1,17 @@
+Monthly Income Report - July 2025
+Generated on: 18-07-2025
+======================================================================
+Student ID: S101 | Username: mita01 | Subjects: Eng, BM, Maths | Fee: RM70 + RM50 + RM90 = RM210
+Student ID: S102 | Username: shah01 | Subjects: Maths, BM, English | Fee: RM90 + RM50 + RM70 = RM210
+Student ID: S103 | Username: wei01 | Subjects: Sejarah, English, BM | Fee: RM80 + RM70 + RM50 = RM200
+Student ID: S104 | Username: siti01 | Subjects: BM, Maths, Sejarah | Fee: RM50 + RM90 + RM80 = RM220
+Student ID: S105 | Username: arjun01 | Subjects: English, Sejarah, Geography | Fee: RM70 + RM80 + RM60 = RM210
+Student ID: S106 | Username: nabila01 | Subjects: Sejarah, Maths, Bahasa Melayu | Fee: RM80 + RM90 + RM50 = RM220
+Student ID: S107 | Username: jia01 | Subjects: Science, Maths, English | Fee: RM100 + RM90 + RM70 = RM260
+Student ID: S108 | Username: kishen01 | Subjects: BM, Maths, Science | Fee: RM50 + RM90 + RM100 = RM240
+Student ID: S109 | Username: amirah01 | Subjects: Geography, BM, Sejarah | Fee: RM60 + RM50 + RM80 = RM190
+Student ID: S110 | Username: tan01 | Subjects: Science, Maths, English | Fee: RM100 + RM90 + RM70 = RM260
+Student ID: S111 | Username: lia01 | Subjects: English, Maths, Sejarah | Fee: RM70 + RM90 + RM80 = RM240
+Student ID: S112 | Username: kumar01 | Subjects: English, Maths, Bahasa Melayu | Fee: RM70 + RM90 + RM50 = RM210
+======================================================================
+Total Income: RM 2670.00

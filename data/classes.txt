@@ -1,0 +1,10 @@
+Mathematics,RM90,Tuesday 2PM-4PM,tutorsevan
+Mathematics,RM60,Tuesday 4PM - 6PM,tutorneha
+Sejarah,RM80,Wednesday 11AM-1PM,tutorfarah
+Bahasa Melayu,RM50,Thursday 10AM-12PM,tutorkok
+English,RM70,Friday 3PM-5PM,tutoraishah
+Geography,RM60,Thursday 3PM-5PM,tutorkarthik
+Science,RM100,Friday 9AM-11AM,tutorsuraaj
+Maths,RM 90,2PM - 4PM,suraaj
+null,null,null,suraaj
+null,null,null,suraaj

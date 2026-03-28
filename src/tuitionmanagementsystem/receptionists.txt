@@ -1,0 +1,3 @@
+R001, Aina, 950101-10-1234, aina.recep@atc.edu.my, 0123456789, No. 12, Jalan Damai, Kuala Lumpur, recep01
+R002, Tharsheni, A1234567, tharsheni@atc.edu.my, 0167788990, 33B, Jalan SS2/3, Petaling Jaya, recep02
+

@@ -1,0 +1,15 @@
+studentID,username,level,payment,status,month
+S101,mita,Form 3,RM210,paid,01-07-2025
+S102,Shah,Form 4,RM220,paid,02-07-2025
+S103,wei,Form 3,RM240,pending,25-07-2025
+S104,siti,Form 2,RM230,paid,03-07-2025
+S105,arjun,Form 1,RM210,pending,05-07-2025
+S106,nabila,Form 5,RM230,paid,03-07-2025
+S107,jia,Form 4,RM250,pending,05-07-2025
+S108,kishen,Form 3,RM250,paid,05-07-2025
+S109,amirah,Form 2,RM230,pending,05-07-2025
+S110,tan,Form 4,RM250,paid,05-07-2025
+S111,lia,Form 3,RM250,pending,05-07-2025
+S112,kumar,Form 3,RM230,paid,06-07-2025
+
+

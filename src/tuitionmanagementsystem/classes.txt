@@ -1,0 +1,11 @@
+Add Maths,RM120,Monday 10AM-12PM,Mr. Ramesh Nair
+Mathematics,RM100,Tuesday 2PM-4PM,Ms. Farah Izzati
+Sejarah,RM90,Wednesday 11AM-1PM,Mr. Lim Kok Leong
+Bahasa Melayu,RM90,Thursday 10AM-12PM,Ms. Aishah Syahirah
+English,RM100,Friday 3PM-5PM,Mr. Karthik Raj
+Biology,RM120,Monday 1PM-3PM,Ms. Lee Mei Lin
+Physics,RM120,Tuesday 10AM-12PM,Mr. Hafizuddin Rosli
+Chemistry,RM120,Wednesday 2PM-4PM,Ms. Preethi A/P Rajan
+Geography,RM90,Thursday 3PM-5PM,Mr. Tan Wei Ming
+Science,RM100,Friday 9AM-11AM,Ms. Nur Aina Sofia
+

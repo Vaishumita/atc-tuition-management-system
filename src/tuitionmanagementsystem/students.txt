@@ -1,0 +1,10 @@
+S101, Vaishalini Raj, 0134567890, Form 5, Add Maths
+S102, Aiman Hakimi, 0149988776, Form 4, Mathematics
+S103, Lim Wei Jian, 0162233445, Form 3, Sejarah
+S104, Siti Nur Alya, 0171122334, Form 2, Bahasa Melayu
+S105, Arjun Kumar, 0188877665, Form 1, English
+S106, Nurul Nabila, 0113344556, Form 5, Add Maths
+S107, Lee Jia En, 0129988775, Form 4, Physics
+S108, Kishen Dev, 0132233445, Form 3, Chemistry
+S109, Amirah Zain, 0167788990, Form 2, Geography
+S110, Tan Zhi Hao, 0175566778, Form 4, Biology

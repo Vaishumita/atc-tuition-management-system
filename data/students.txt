@@ -1,0 +1,15 @@
+ID,username,password,fullname,IC,email,phone,address,level,subject1,subject2,subject3,month
+S101,mita,mita01,Shasmita,751034-16-2836,mita@gmail.com,01234567891,Jln A, Taman Botanic,Form 3,Eng,BM,Maths,01-07-2025
+S102,shah,Shah01,Shah,651027-27-2830,shah@gmail.com,0137420310,Jln Sentul,Form 4,Maths,BM,English,02-07-2025
+S103,wei,wei01,Wei Ming,750128-28-0237,wei@gmail.com,01234567822,Jln C, Taman Sentosa,Form 3,Sejarah,English,BM,25-07-2025
+S104,siti,siti01,Siti Aisyah,765482-20-2738,siti@gmail.com,01234567833,Jln D, Taman Sri Muda,Form 2,BM,Maths,Sejarah,03-07-2025
+S105,arjun,arjun01,Arjun Dev,061728-17-1826,arjun@gmail.com,01234567844,Jln E, Taman Bukit Jaya,Form 1,English,Sejarah,Geography,05-07-2025
+S106,nabila,nabila01,Nabila Rahim,741726-82-0982,nabila@gmail.com,01234567855,Jln F, Taman Bukit Tinggi,Form 5,Sejarah,Maths,Bahasa Melayu,03-07-2025
+S107,jia,jia01,Jia Wen,731628-18-1029,jia@gmail.com,01234567866,Jln G, Taman Damai,Form 4,Science,Maths,English,05-07-2025
+S108,kishen,kishen01,Kishen Kumar,721928-10-2829,kishen@gmail.com,01234567877,Jln H, Taman Indah,Form 3,BM,Maths,Science,05-07-2025
+S109,amirah,amirah01,Amirah Zahra,751920-02-1827,amirah@gmail.com,01234567888,Jln I, Taman Ria,Form 2,Geography,Bahasa Melayu,Sejarah,05-07-2025
+S110,tan,tan01,Tan Hui,761929-10-2023,tan@gmail.com,01234567899,Jln J, Taman Sutera,Form 4,Science,Maths,English,05-07-2025
+S111,lia,Lia01,Linda,110292-38-3820,Lia@gmail.com,0123451823,Jln 2, Taman Selayang,Form 3,English,Maths,Sejarah,05-07-2025
+S112,kumar,kumar01,kumaran,920315-08-3456,mar@gmail.com,0121123445,Taman Desa Park,Form 3,English,Maths,Bahasa Melayu,06-07-2025
+S113,pash,passh,pash123,762836192736,pas@gmail.com,0182736453,Taman Wahyu,Form 3,Maths,Eng,Sejarah,18-07-2025
+S114,izz,Izaah,iza123,018273648403,izz@gmail.com,01982742563,Taman Sri Gombakj,Form 1,Maths,Eng,BM,18-07-2025

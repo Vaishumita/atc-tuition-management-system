@@ -1,0 +1,2 @@
+AdmnID,username,password,email,phonenumber
+A001,vaishu,vaishu@123,vaishu@gmail.com,0196682634

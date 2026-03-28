@@ -1,0 +1,4 @@
+vaishu,vaishu123,Admin
+navin,navin123,Receptionist
+suraaai,suraaai123,Tutor
+shah,shah123,Student

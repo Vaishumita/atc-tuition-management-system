@@ -1,0 +1,6 @@
+ID,UserName,Name,Password,IC,Email,Phone Number,Address
+R001,Navin01,Navin,recep01,061235-16-1728,navin@gmail.com,0162726383,Taman Sri Gombak
+R002,Alya01,Alya123,recep02,950101-10-1234,alya@gmail.com,0134756584,Greenwood
+R003,Tharsheni01,Tharsheni,recep03,092936-16-2517,tharsheni@gmail.com,01722637384,Taman Meranti
+R004,P.Vinyi01,Vinyi,vinyi123,810473829102,vinyi@gmail.com,0192283738,Taman Sunway
+R005,Jenny01,Jenny,recep05,701928-298381,jenny@gmail.com,0128473628,Taman Selayang

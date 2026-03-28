@@ -1,0 +1,14 @@
+Monthly Student Registration Report – 2025
+Generated on: 18–07–2025
+────────────────────────────────────────────
+
+January: 0 students
+February: 0 students
+March: 0 students
+April: 0 students
+May: 0 students
+June: 0 students
+July: 12 students
+
+────────────────────────────────────────────
+Note: Based on student registration dates from students.txt.

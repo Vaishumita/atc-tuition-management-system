@@ -1,0 +1,14 @@
+Month: July
+Level: Form 1
+Subject: Maths | Total Income: 360
+Subject: English | Total Income: 280
+Subject: BM | Total Income: 250
+
+Level: Form 2
+Subject: Maths | Total Income: 400
+Subject: Science | Total Income: 300
+Subject: Sejarah | Total Income: 200
+
+Level: Form 3
+Subject: English | Total Income: 330
+Subject: Geography | Total Income: 290
