@@ -27,4 +27,7 @@ A Java Swing-based system developed to manage tuition centre operations includin
 - `src/` - Java source code
 - `data/` - Supporting data files
 - `images/` - Images and UI assets
+
+=======
 - `nbproject/` - NetBeans project configuration
+>>>>>>> e061bdbfff8dae806bfbc209128f5edd88604177
